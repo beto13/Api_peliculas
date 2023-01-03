@@ -1,0 +1,5 @@
+Estos archivos son los de la API terminada para que puedas empezar desde aquí, 
+con ellos podrás configurar la API en tu equipo local 
+como lo enseño en este mismo video
+
+Contiene los archivos fuente de la API y una copia de la base de datos, el instructivo para la instalación es este mismo video
